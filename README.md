@@ -1,5 +1,5 @@
 # 387Z-Programming-Change-Up
-Woah, what is this place, it's like, new.
-Anyway, i don't really know how github works, i'll find out and put anything important here.
+Woah, what is this place? It's like, new.
+Anyway, I don't really know how GitHub works, but I'll find out and put anything important here.
 
--the owner of his domain, Liam
+-The owner of his domain, Liam
